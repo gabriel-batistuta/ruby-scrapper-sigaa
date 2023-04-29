@@ -6,3 +6,4 @@
 
 # Referencies
 - https://guides.rubygems.org/name-your-gem/#dont-use-uppercase-letters
+- https://www.scrapingbee.com/blog/web-scraping-ruby/
